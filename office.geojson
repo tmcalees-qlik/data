@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":
     [
-    {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1001,"office-name":"Office-1"},"geometry":{"type":"Polygon","coordinates":[[[50,300],[100,300],[100,400],[50,400],[50,300]]]}}
-    
+    {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1001,"office-name":"Office-1"},"geometry":{"type":"Polygon","coordinates":[[[200,600],[200,800],[300,800],[300,600],[200,600]]]}},
+    {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1002,"office-name":"Office-2"},"geometry":{"type":"Polygon","coordinates":[[[50,300],[100,300],[100,400],[50,400],[50,300]]]}}    
     ]
 }
