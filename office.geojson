@@ -19,14 +19,14 @@
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1009,"office-name":"Office-9"},
     "geometry":{"type":"Polygon","coordinates":[[[1224,310],[1224,437],[1380,437],[1380,310],[1224,310]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1010,"office-name":"Office-10"},
-    "geometry":{"type":"Polygon","coordinates":[[[715,50],[715,184],[886,184],[886,50],[715,50]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[715,50],[715,187],[886,187],[886,50],[715,50]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1011,"office-name":"Office-11"},
-    "geometry":{"type":"Polygon","coordinates":[[[540,50],[540,184],[705,184],[705,50],[540,50]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[540,50],[540,187],[705,187],[705,50],[540,50]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1012,"office-name":"Office-12"},
     "geometry":{"type":"Polygon","coordinates":[[[757,351],[757,551],[903,551],[903,351],[757,351]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1013,"office-name":"Office-13"},
-    "geometry":{"type":"Polygon","coordinates":[[[330,50],[330,184],[535,184],[535,50],[330,50]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[328,50],[328,187],[535,187],[535,50],[328,50]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1014,"office-name":"Office-14"},
-    "geometry":{"type":"Polygon","coordinates":[[[50,50],[50,175],[317,175],[317,50],[50,50]]]}}
+    "geometry":{"type":"Polygon","coordinates":[[[50,50],[50,175],[315,175],[315,50],[50,50]]]}}
     ]
 }
