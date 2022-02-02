@@ -5,14 +5,14 @@
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1002,"office-name":"Office-2"},
     "geometry":{"type":"Polygon","coordinates":[[[449,634],[449,832],[585,832],[585,634],[449,634]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1003,"office-name":"Office-3"},
-    "geometry":{"type":"Polygon","coordinates":[[[593,634],[593,832],[745,832],[745,634],[593,634]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[593,634],[593,832],[748,832],[748,634],[593,634]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1004,"office-name":"Office-4"},
-    "geometry":{"type":"Polygon","coordinates":[[[754,634],[754,832],[891,832],[891,634],[754,634]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[757,634],[757,832],[891,832],[891,634],[757,634]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1005,"office-name":"Office-5"},
-    "geometry":{"type":"Polygon","coordinates":[[[900,634],[900,832],[1050,832],[1050,634],[900,634]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[900,634],[900,832],[1053,832],[1053,634],[900,634]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1006,"office-name":"Office-6"},
-    "geometry":{"type":"Polygon","coordinates":[[[1059,634],[1059,832],[1220,832],[1220,634],[1059,634]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[1062,634],[1062,832],[1217,832],[1217,634],[1062,634]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1007,"office-name":"Office-7"},
-    "geometry":{"type":"Polygon","coordinates":[[[1229,634],[1229,832],[1445,832],[1445,634],[1229,634]]]}}
+    "geometry":{"type":"Polygon","coordinates":[[[1226,564],[1226,832],[1345,832],[1345,564],[1226,564]]]}}
     ]
 }
