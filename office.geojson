@@ -1,18 +1,18 @@
 {"type":"FeatureCollection","features":
     [
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1001,"office-name":"Office-1"},
-        "geometry":{"type":"Polygon","coordinates":[[[320,634],[320,832],[441,832],[441,634],[320,634]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[320,634],[320,832],[441,832],[441,634],[320,634]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1002,"office-name":"Office-2"},
-    "geometry":{"type":"Polygon","coordinates":[[[446,634],[446,832],[575,832],[575,634],[446,634]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[449,634],[449,832],[585,832],[585,634],[449,634]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1003,"office-name":"Office-3"},
-    "geometry":{"type":"Polygon","coordinates":[[[580,634],[580,832],[725,832],[725,634],[580,634]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[593,634],[593,832],[745,832],[745,634],[593,634]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1004,"office-name":"Office-4"},
-    "geometry":{"type":"Polygon","coordinates":[[[730,634],[730,832],[851,832],[851,634],[730,634]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[754,634],[754,832],[891,832],[891,634],[754,634]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1005,"office-name":"Office-5"},
-    "geometry":{"type":"Polygon","coordinates":[[[856,634],[856,832],[976,832],[976,634],[856,634]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[900,634],[900,832],[1050,832],[1050,634],[900,634]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1006,"office-name":"Office-6"},
-    "geometry":{"type":"Polygon","coordinates":[[[981,634],[981,832],[1120,832],[1120,634],[981,634]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[1059,634],[1059,832],[1220,832],[1220,634],[1059,634]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1007,"office-name":"Office-7"},
-    "geometry":{"type":"Polygon","coordinates":[[[1125,634],[1125,832],[1245,832],[1245,634],[1125,634]]]}}
+    "geometry":{"type":"Polygon","coordinates":[[[1229,634],[1229,832],[1445,832],[1445,634],[1229,634]]]}}
     ]
 }
