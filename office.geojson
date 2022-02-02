@@ -27,8 +27,8 @@
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1013,"office-name":"Office-13"},
     "geometry":{"type":"Polygon","coordinates":[[[328,50],[328,187],[535,187],[535,50],[328,50]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1014,"office-name":"Office-14"},
-    "geometry":{"type":"Polygon","coordinates":[[[50,50],[50,175],[110,175],[192,268],[242,214],[290,214],[315,193],[315,50],[50,50]]]}},
+    "geometry":{"type":"Polygon","coordinates":[[[50,50],[50,175],[105,175],[192,265],[242,212],[290,212],[315,193],[315,50],[50,50]]]}},
     {"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"office-id":1015,"office-name":"Office-15"},
-    "geometry":{"type":"Polygon","coordinates":[[[50,182],[50,328],[180,328],[180,270],[93,182],[50,182]]]}}
+    "geometry":{"type":"Polygon","coordinates":[[[50,182],[50,330],[180,330],[180,270],[93,182],[50,182]]]}}
     ]
 }
